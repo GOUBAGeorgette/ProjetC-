@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1732704702 source:c:\users\k d traore\desktop\projetcpp\bibliothèquegestioncontacts\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<algorithm>
+	<stdexcept>
+	<windows.h>
+
